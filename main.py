@@ -1,4 +1,4 @@
-nama = 'Ulung Markho Mayzebe'
+nama = 'zakiyyallah mushoffa'
 program = 'Usaha'
 
 print(f'Program {program} oleh {nama}')
