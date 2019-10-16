@@ -1,5 +1,6 @@
 nama = 'zakiyyallah mushoffa'
 program = 'Gerak Lurus'
+program = 'Usaha'
 
 print(f'Program {program} oleh {nama}')
 
